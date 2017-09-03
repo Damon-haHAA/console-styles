@@ -1,0 +1,21 @@
+{
+  "name": "console-styles",
+  "version": "2.0.0",
+  "typings": "index.d.ts",
+  "description": "a styled console logger with no dependencies",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "keywords": [
+    "console",
+    "log",
+    "colours",
+    "ansi",
+    "styles",
+    "node",
+    "javascript"
+  ],
+  "author": "Damon Ezard",
+  "license": "MIT"
+}
